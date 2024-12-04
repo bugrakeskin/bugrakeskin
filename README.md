@@ -1,54 +1,56 @@
-<table>
-    <tr>
-        <td width="50%">
-            <img src="https://github.com/bugrakeskin/bugrakeskin/blob/main/assets/coding.gif">
-            <br><br>
-            <p>
-                🔭 Currently working on <b>Shopping List App</b>
-                <br>
-                🌱 Learning <b>Vue.js</b> and <b>Full Stack Development</b>
-                <br>
-                💬 Ask me about <b>JavaScript, Vue, HTML/CSS</b>
-                <br>
-                📫 How to reach me: <b>bugra.keskin@gmail.com</b>
-            </p>
-            <h2>⚡️ A Few Quick Facts</h2>
-            <ul>
-                <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>.</li>
-                <li>👨‍💻 Most of my projects are available on <a href="https://github.com/bugrakeskin">Github</a>.</li>
-                <li>📝 I write articles on <a href="#">my blog</a>.</li>
-                <li>🎉 Fun Fact: I love photography 📸</li>
-            </ul>
-        </td>
-        <td width="50%">
+# Hey <img src="https://raw.githubusercontent.com/bugrakeskin/bugrakeskin/master/gifs/Hi.gif" width="30px">, I'm Buğra
 
- ![alt text](https://github.com/bugrakeskin/bugrakeskin/blob/main/assets/cool.gif) Hey! Nice to see you.
+<h3 align="center">A passionate Full Stack developer from Turkey 🇹🇷</h3>
 
-<h3>Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrakeskin&label=Profile%20views&color=0e75b6&style=flat" alt="bugrakeskin" /> </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Always+learning+new+things&center=true&width=380&height=45"></a>
-</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bugrakeskin/bugrakeskin/master/gifs/coder.gif">
 
-<p>
-  <img alt="🌍 Turkey" src="https://img.shields.io/badge/🌍-Turkey-blue" />
-  <img src="https://img.shields.io/badge/Timezone-Europe%2FIstanbul-blue" />
-</p>
+- 🔭 I'm currently working on **Shopping List App**
 
-### 🛠️ Languages and Tools
+- 🌱 I'm currently learning **Vue.js, Full Stack Development**
 
+- 👨‍💻 All of my projects are available at [github.com/bugrakeskin](github.com/bugrakeskin)
+
+- 💬 Ask me about **JavaScript, Vue, HTML/CSS**
+
+- 📫 How to reach me **bugra.keskin@gmail.com**
+
+- ⚡ Fun fact **I love photography 📸**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN" height="30" width="40" /></a>
+<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER" height="30" width="40" /></a>
 </p>
 
-### 📊 This Week I Spent My Time On:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://vuejs.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a>
+</p>
 
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bugrakeskin&show_icons=true&locale=en&layout=compact&theme=radical" alt="bugrakeskin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bugrakeskin&show_icons=true&locale=en&theme=radical" alt="bugrakeskin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bugrakeskin&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="bugrakeskin" /></p>
+
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
 JavaScript   3 hrs 42 mins   ███████████░░░░░░░░░░   45.23 %
 Vue.js       2 hrs 15 mins   ███████░░░░░░░░░░░░░░   27.58 %
@@ -56,31 +58,20 @@ HTML         1 hr 5 mins     ███░░░░░░░░░░░░░░
 CSS          59 mins         ███░░░░░░░░░░░░░░░░░░   12.12 %
 Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
-
 <!--END_SECTION:waka-->
 
-### 📈 My GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bugrakeskin&show_icons=true&theme=gotham" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bugrakeskin&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-### 🤝 Connect with me:
-
+### 🏆 GitHub Trophies
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER" height="30" width="40" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bugrakeskin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="bugrakeskin" />
+  </a>
 </p>
 
 ---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bugrakeskin&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-        </td>
-    </tr>
-</table>
