@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/bugrakeskin/bugrakeskin/main/assets/cool.gif" width="30px">, I'm Buğra
+# Hey <img src="https://raw.githubusercontent.com/bugrakeskin/bugrakeskin/main/assets/cool.gif" width="30px">, I'm Buğra 👋 
 
 <h3 align="center">A passionate Full Stack developer from Turkey 🇹🇷</h3>
 
