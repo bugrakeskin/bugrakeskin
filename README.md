@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td width="50%">
-            <img src="https://github.com/bugrakeskin/bugrakeskin/blob/main/assets/coding.gif">
+            <img src="https://github.com/bugrakeskin/bugrakeskin/blob/main/assets/code.gif">
             <br><br>
             <p>
                 🔭 Currently working on <b>Shopping List App</b>
