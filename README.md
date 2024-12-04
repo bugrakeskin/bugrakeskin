@@ -67,7 +67,7 @@ I'm a seasoned IT professional with 15 years of experience, including 3 years sp
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bugrakeskin&show_icons=true&locale=en&theme=radical" alt="bugrakeskin" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=bugrakeskin&theme=radical" alt="bugrakeskin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=bugrakeskin&theme=radical" alt="bugrakeskin" /></p>
 
 ### 📊 Weekly development breakdown
 
