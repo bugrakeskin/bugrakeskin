@@ -78,5 +78,5 @@ Other        8 mins          ░░░░░░░░░░░░░░░░░
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bugrakeskin/bugrakeskin/main/assets/wave.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
