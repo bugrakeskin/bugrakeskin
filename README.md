@@ -63,11 +63,17 @@ I'm a seasoned IT professional with 15 years of experience, including 3 years sp
     <a href="https://about.gitlab.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bugrakeskin&show_icons=true&locale=en&layout=compact&theme=radical" alt="bugrakeskin" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bugrakeskin&show_icons=true&locale=en&theme=radical" alt="bugrakeskin" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bugrakeskin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bugrakeskin&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=bugrakeskin&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="bugrakeskin" /></p>
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bugrakeskin&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"/>
+</div>
 
 ### 📊 Weekly development breakdown
 
@@ -82,14 +88,6 @@ Other        8 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bugrakeskin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="bugrakeskin" />
-  </a>
-</p>
 
 ---
 
