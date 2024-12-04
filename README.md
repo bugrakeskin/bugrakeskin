@@ -1,3 +1,26 @@
+<table>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/bugrakeskin/bugrakeskin/blob/main/assets/coding.gif">
+            <br><br>
+            <p>
+                🔭 Currently working on <b>Shopping List App</b>
+                <br>
+                🌱 Learning <b>Vue.js</b> and <b>Full Stack Development</b>
+                <br>
+                💬 Ask me about <b>JavaScript, Vue, HTML/CSS</b>
+                <br>
+                📫 How to reach me: <b>bugra.keskin@gmail.com</b>
+            </p>
+            <h2>⚡️ A Few Quick Facts</h2>
+            <ul>
+                <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>.</li>
+                <li>👨‍💻 Most of my projects are available on <a href="https://github.com/bugrakeskin">Github</a>.</li>
+                <li>📝 I write articles on <a href="#">my blog</a>.</li>
+                <li>🎉 Fun Fact: I love photography 📸</li>
+            </ul>
+        </td>
+        <td width="50%">
 # Hi there 👋 I'm Buğra
 
 <h3>Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
@@ -22,24 +45,27 @@
 </p>
 
 ### 📊 This Week I Spent My Time On:
+
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   3 hrs 42 mins   ███████████░░░░░░░░░░   45.23 % 
-Vue.js       2 hrs 15 mins   ███████░░░░░░░░░░░░░░   27.58 % 
-HTML         1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░   13.45 % 
-CSS          59 mins         ███░░░░░░░░░░░░░░░░░░   12.12 % 
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JavaScript   3 hrs 42 mins   ███████████░░░░░░░░░░   45.23 %
+Vue.js       2 hrs 15 mins   ███████░░░░░░░░░░░░░░   27.58 %
+HTML         1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░   13.45 %
+CSS          59 mins         ███░░░░░░░░░░░░░░░░░░   12.12 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
+
 <!--END_SECTION:waka-->
 
 ### 📈 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bugrakeskin&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=gotham" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bugrakeskin&theme=gotham" alt="GitHub Streak" />
 </p>
 
 ### 🤝 Connect with me:
@@ -50,6 +76,10 @@ Other        8 mins          ░░░░░░░░░░░░░░░░░
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=bugrakeskin&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
+        </td>
+    </tr>
+</table>
