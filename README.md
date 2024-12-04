@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shop.bugrakeskin.xyz)
+[![shp](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shop.bugrakeskin.xyz)
 
 <!--
 **bugrakeskin/bugrakeskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
