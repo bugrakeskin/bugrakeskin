@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrakeskin&label=Profile%20views&color=0e75b6&style=flat" alt="bugrakeskin" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bugrakeskin/bugrakeskin/main/assets/coder.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bugrakeskin/bugrakeskin/main/assets/code.gif">
 
 - 🔭 I'm currently working on **Shopping List App**
 
