@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td width="50%">
-            <img src="https://github.com/bugrakeskin/bugrakeskin/blob/main/assets/code.gif">
+            <img src="https://github.com/bugrakeskin/bugrakeskin/blob/main/assets/coding.gif">
             <br><br>
             <p>
                 🔭 Currently working on <b>Shopping List App</b>
@@ -21,7 +21,8 @@
             </ul>
         </td>
         <td width="50%">
-# Hi there 👋 I'm Buğra
+
+ ![alt text](cool.gif) Hey! Nice to see you.
 
 <h3>Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
@@ -61,11 +62,11 @@ Other        8 mins          ░░░░░░░░░░░░░░░░░
 ### 📈 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bugrakeskin&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bugrakeskin&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bugrakeskin&theme=gotham" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bugrakeskin&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ### 🤝 Connect with me:
